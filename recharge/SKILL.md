@@ -1,6 +1,6 @@
 ---
 name: recharge
-description: Technical skill for the Recharge Subscriptions platform (Shopify). This skill should be used when working with Recharge subscription management, including re-syncing subscription data, refreshing billing or customer state, reinitializing webhooks, reconnecting APIs, resolving subscription processing issues, managing recurring orders, charges, customers, and payment methods. Triggers: "recharge subscriptions", "resync subscriptions", "fix recharge connection", "reinitialize webhooks", "refresh billing", "subscription not working", "recharge API", "recurring billing", "recharge is broken".
+description: 'Technical skill for the Recharge Subscriptions platform (Shopify). Use when working with Recharge subscription management - re-syncing data, refreshing billing state, reinitializing webhooks, reconnecting APIs, retrying failed charges, managing recurring orders, payment methods, and resolving subscription processing issues.'
 ---
 
 # Recharge Subscriptions
